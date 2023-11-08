@@ -1,0 +1,13 @@
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore DS_Store files
+.DS_Store
