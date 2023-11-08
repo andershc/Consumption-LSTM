@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it using the following citation format."
+
+title: "Consumption LSTM"
+version: 1.0.0
+authors:
+    - name: "Anders Heftøy Carlsen"
+      email: "andershc@stud.ntnu.no"
+      affiliation: "Norwegian University of Science and Technology"
+    - name: "Marius Klemp Petersen"
+      email: "mariuskp@stud.ntnu.no"
+      affiliation: "Norwegian University of Science and Technology"
+license: "MIT"
+repository-code: "https://github.com/andershc/Consumption-LSTM"
